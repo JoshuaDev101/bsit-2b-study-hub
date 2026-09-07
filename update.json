@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "1.12",
-  "apkUrl": "https://github.com/JoshuaDev101/bsit-2b-study-hub/releases/download/v1.10/app-release.apk",
+  "apkUrl": "https://github.com/JoshuaDev101/bsit-2b-study-hub/releases/download/v1.12/app-release.apk",
    "sha256": "573ab04a0c5637d6c64f250273e622981f3e06e0195718cda2928b27f4248789",
-  "notes": "GitHub updater configured. Offline reviewers, quizzes, PDF viewer, and study features."
+  "notes": "Added new handouts and UI improvements."
 }
