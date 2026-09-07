@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/JoshuaDev101/bsit-2b-study-hub/releases/download/v1.12/app-release.apk",
-   "sha256": "573ab04a0c5637d6c64f250273e622981f3e06e0195718cda2928b27f4248789",
-  "notes": "Added new handouts and UI improvements."
+  "versionCode": 13,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/JoshuaDev101/bsit-2b-study-hub/releases/download/v1.13/app-release.apk",
+  "sha256": "PASTE_NEW_V1.13_APK_SHA256_HERE",
+  "notes": "New top navigation menu, redesigned handout folder browser, larger full-screen PDF viewer, new BSIT 2B app icon, and UI cleanup."
 }
