@@ -2,6 +2,6 @@
   "versionCode": 19,
   "versionName": "1.19",
   "apkUrl": "https://github.com/JoshuaDev101/bsit-2b-study-hub/releases/download/v1.19/app-release.apk",
-  "sha256": "sha256:bae130e442af17e96c16395c1bb550f82b2d898925661752486731c13eb1e9bdf",
+  "sha256": "bae130e442af17e96c16395c1bb550f82b2d898925661752486731c13eb1e9bdf",
   "notes": "Revised all 496 Midterm practice items to use direct exam-style wording. Removed references to handouts from questions and choices, shortened choices, corrected source-dependent prompts, and preserved Java syntax, formulas and historical qualifications. Includes answer explanations, separate source references, 388 regular Quiz questions, 108 written items, the Midterm schedule and Prelims Archive"
 }
